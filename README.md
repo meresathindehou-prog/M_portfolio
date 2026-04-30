@@ -28,7 +28,9 @@ Ce portfolio présente mes projets, mes compétences et mon savoir-faire dans le
 ```
 portfolio/
 │
-├── index.html   (contient HTML + CSS + JavaScript)
+├── index.html
+|-- style.css
+|-- app.js
 └── README.md
 ```
 
