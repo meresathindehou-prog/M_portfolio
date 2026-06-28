@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meresathindehou-prog.github.io/M_portfolio/sitemap.xml
